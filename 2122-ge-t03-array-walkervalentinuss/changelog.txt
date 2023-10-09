@@ -1,0 +1,5 @@
+Mengerjakan t03_01 untuk mencari nilai minimal dan nilai maksimal 
+Mengerjakan t03_02 untuk mencari nilai rata rata  
+Mengerjakan t03_03 dengan cara membandingkan jarak nilai terjauh tiap antar dua bilangan
+mengganti logika t03_03
+memperbaiki t03_03
