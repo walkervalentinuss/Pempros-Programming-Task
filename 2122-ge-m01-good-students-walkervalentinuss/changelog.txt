@@ -1,0 +1,2 @@
+Kami mencoba memnyelesaikan persoalan dengan menggunakan fungsi fungsi string dari library string.h 
+Mengganti solusi untuk menyelesaikan permasalahan 1
