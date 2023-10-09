@@ -56,6 +56,3 @@ Presentasikan pekerjaan anda dalam sebuah video. Pada presentasi:
 2. q01_02.c
 3. changelog.txt
 
-## How to Submit?
-
-Please see https://youtu.be/cU546lAL9g8
