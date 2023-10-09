@@ -1,0 +1,5 @@
+mengubah beberapa tipe data dan telah menyelesaikan persoalan.
+mengganti short int menjadi short
+mengganti short menjadi int
+menambahkan %.3 untuk membuat presisi menjadi tiga angka di belakang koma
+melakukan langkah yang sama seperti nomor 4 untuk t01_01
