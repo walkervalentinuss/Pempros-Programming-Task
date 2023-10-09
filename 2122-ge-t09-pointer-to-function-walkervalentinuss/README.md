@@ -309,6 +309,3 @@ Kriteria Video Presentasi:
 2. t09_02.c
 3. t09_03.c
 4. changelog.txt
-
-## How to submit?
-Please see https://youtu.be/g0BQ195-aWo
