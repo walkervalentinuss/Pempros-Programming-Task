@@ -158,6 +158,3 @@ Kriteria Video Presentasi:
 1. t08_01.c
 2. t08_02.c
 3. changelog.txt
-
-## How to submit?
-Please see https://youtu.be/g0BQ195-aWo
