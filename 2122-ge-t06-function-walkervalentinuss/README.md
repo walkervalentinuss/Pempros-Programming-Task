@@ -154,6 +154,3 @@ Presentasikan pekerjaan anda dalam sebuah video. Pada presentasi:
 ## Submission
 1. StudentDormitory.c
 2. changelog.txt
-
-## How to submit?
-Please see https://youtu.be/g0BQ195-aWo
