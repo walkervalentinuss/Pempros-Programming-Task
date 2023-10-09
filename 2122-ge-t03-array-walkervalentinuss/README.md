@@ -113,6 +113,3 @@ Presentasikan pekerjaan anda dalam sebuah video. Pada presentasi:
 3. t03_03.c
 4. changelog.txt
 
-## How to Submit?
-
-Please see https://youtu.be/cU546lAL9g8
