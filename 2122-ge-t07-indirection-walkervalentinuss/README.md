@@ -117,6 +117,3 @@ Kriteria Video Presentasi:
 1. t07_01.c
 2. t07_02.c
 3. changelog.txt
-
-## How to submit?
-Please see https://youtu.be/g0BQ195-aWo
