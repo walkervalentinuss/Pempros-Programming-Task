@@ -127,6 +127,3 @@ Presentasikan pekerjaan anda dalam sebuah video. Pada presentasi:
 1. t04_01.c
 2. t04_02.c
 3. changelog.txt
-
-## How to submit?
-Please see https://youtu.be/g0BQ195-aWo
