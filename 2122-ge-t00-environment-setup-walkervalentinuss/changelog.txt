@@ -1,0 +1,2 @@
+Saya sudah menuliskan gcc t00_01.c di terminal dan sudah mendapatkan file a.extension
+Memperbaiki letak koma dan tanda seru
