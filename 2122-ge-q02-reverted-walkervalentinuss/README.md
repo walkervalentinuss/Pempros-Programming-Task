@@ -105,5 +105,3 @@ Kriteria Video Presentasi:
 1. q02_01.c
 4. changelog.txt
 
-## How to submit?
-Please see https://youtu.be/g0BQ195-aWo
